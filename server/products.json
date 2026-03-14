@@ -1,0 +1,65 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "A",
+      "price": 100,
+      "quantity": 11
+    },
+    {
+      "id": "2",
+      "name": "B",
+      "price": 200,
+      "quantity": 12
+    },
+    {
+      "id": "3",
+      "name": "C",
+      "price": 300,
+      "quantity": 13
+    },
+    {
+      "id": "4",
+      "name": "D",
+      "price": 400,
+      "quantity": 14
+    },
+    {
+      "id": "5",
+      "name": "E",
+      "price": 500,
+      "quantity": 15
+    },
+    {
+      "id": "6",
+      "name": "F",
+      "price": 600,
+      "quantity": 16
+    },
+    {
+      "id": "7",
+      "name": "G",
+      "price": 700,
+      "quantity": 17
+    },
+    {
+      "id": "8",
+      "name": "H",
+      "price": 800,
+      "quantity": 18
+    },
+    {
+      "id": "9",
+      "name": "I",
+      "price": 900,
+      "quantity": 19
+    },
+    {
+      "id": "10",
+      "name": "J",
+      "price": 1000,
+      "quantity": 20
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
