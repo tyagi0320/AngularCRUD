@@ -1,4 +1,4 @@
-//Files not to be used:
+"//Files not to be used:
 1.styles.css in src
 2.server.ts in src
 3.main.ts in src
@@ -491,3 +491,4 @@ hasUnsavedChanges(){
 }
 step-5: update app.routes.ts:
 {path:'productdetails/:id',component:Productdetails,canDeactivate:[deactivateGuard]},
+"
